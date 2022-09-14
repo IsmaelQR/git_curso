@@ -7,3 +7,8 @@ jueves
 viernes
 sabado 
 domingo
+estaciones
+vernao
+invierno 
+otoño
+y primavera
