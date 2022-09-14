@@ -1,5 +1,5 @@
 proyecto
-dias de la semana
+dias de la SEMANA
 lunes 
 martes
 miercoles
@@ -7,3 +7,12 @@ jueves
 viernes
 sabado 
 domingo
+estaciones
+vernao
+invierno 
+otoño
+y primavera
+
+meses 
+eneero 
+febrereo
