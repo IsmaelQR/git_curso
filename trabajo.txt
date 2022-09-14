@@ -12,3 +12,7 @@ vernao
 invierno 
 otoño
 y primavera
+
+meses 
+eneero 
+febrereo
